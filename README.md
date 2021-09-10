@@ -18,7 +18,7 @@ https://camo.githubusercontent.com/915b7be44ada53c290eb157634330494ebe3e30a/6874
 
 With a fully featured and well documented that provides a highly performant node implementation, a compiler for Go smart contracts, and an SDK for app integration. Written in Go.
 
-⛏️ [Mining]()      |      💰  [TokenSpace](https://github.com/stitchKelsep/tokenspace)
+⛏️ [Mining guide]()      |      💰  [TokenSpace](https://github.com/stitchKelsep/tokenspace)
 
 
 
